@@ -15,5 +15,5 @@ private:
 	Node* START = NULL;
 public:
 	void addNode();
-	bool
+	bool search(int rollNo, Node** previous, Node** current);
 };
