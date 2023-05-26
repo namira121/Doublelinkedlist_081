@@ -18,4 +18,5 @@ public:
 	bool search(int rollNo, Node** previous, Node** current);
 	bool deleteNode(int rollNo);
 	bool ListEmpty();
+	void traverse();
 };
