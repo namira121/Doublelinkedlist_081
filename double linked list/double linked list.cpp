@@ -19,4 +19,5 @@ public:
 	bool deleteNode(int rollNo);
 	bool ListEmpty();
 	void traverse();
+	void revtraverse();
 };
