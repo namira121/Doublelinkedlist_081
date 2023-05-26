@@ -13,4 +13,7 @@ public:
 class DoubleLinkedList {
 private:
 	Node* START = NULL;
+public:
+	void addNode();
+	bool
 };
