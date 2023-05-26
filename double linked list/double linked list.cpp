@@ -23,3 +23,8 @@ public:
 	void hapus();
 	void searchData();
 };
+
+void DoubleLinkedList::addNode() {
+	int nim;
+	string nm;
+}
