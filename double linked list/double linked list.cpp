@@ -27,4 +27,5 @@ public:
 void DoubleLinkedList::addNode() {
 	int nim;
 	string nm;
+	cout<< "\nEnter the roll numbe"
 }
